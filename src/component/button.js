@@ -1,7 +1,7 @@
 import React from "react";
 import { useLocation } from "react-router-dom";
 function Button() {
-  const location = useLocation();
+ 
   return (
     <div id="content">
       {/* <!-- Topbar --> */}
